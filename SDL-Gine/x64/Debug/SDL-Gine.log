@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Dev\SDL-Gine\SDL-Gine\Main.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Dev\SDL-Gine\SDL-Gine\Main.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Dev\SDL-Gine\SDL-Gine\Main.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Mouse.cpp
+  Generating Code...
+  SDL-Gine.vcxproj -> C:\Dev\SDL-Gine\x64\Debug\SDL-Gine.exe
